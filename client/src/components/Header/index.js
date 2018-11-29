@@ -18,7 +18,7 @@ function Header({ disableSettings }) {
         {disableSettings ? null : <FCCSearch />}
         <ul id='top-right-nav'>
           <li>
-            <Link to='/learn'>Curriculum</Link>
+            <Link to='/learn'>Curriculum Cool</Link>
           </li>
           <li>
             <a
