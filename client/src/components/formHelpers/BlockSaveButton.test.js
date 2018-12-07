@@ -26,5 +26,5 @@ test('Button text should match "children"', () => {
     <BlockSaveButton>My Text Here</BlockSaveButton>
   );
 
-  expect(enzymeWrapper.text()).toBe('My Text Here');
+  expect(enzymeWrapper.text()).toBe('My Texting Here');
 });
